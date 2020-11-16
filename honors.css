@@ -1,0 +1,45 @@
+body {
+    font-family: "Georgia", sans-serif;
+    background-color: rgb(17, 48, 48);
+    color: white;
+    margin: 0px 10px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.goal {
+    background-color: rgb(116, 166, 162);
+    color: black;
+    padding: 10px;
+    width: 33%;
+}
+.goal hr {
+    border: 1px solid black;
+}
+#book {
+    background-color: rgb(91, 111, 112);
+}
+#goals {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
+#capstone {
+    background-color: rgb(116, 166, 162);
+    color: black;
+    padding: 10px;
+}
+#index {
+    margin-top: 30px;
+    font-family: "Georgia", sans-serif;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    background: rgb(91, 111, 112);
+    color: black;
+    opacity: 1;
+    transition-duration: 0.2s;
+    cursor: pointer;
+    border-radius: 25%;
+    padding: 10px;
+}
