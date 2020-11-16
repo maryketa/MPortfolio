@@ -15,8 +15,11 @@ body {
 #header h1 {
     margin-bottom: 0;
 }
-a {
+#header a {
     color: white;
+}
+#about a {
+    color: black;
 }
 
 #about {
